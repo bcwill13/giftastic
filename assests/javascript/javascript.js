@@ -35,7 +35,6 @@ $(document).ready(function() {
     return;
   });
 
-  // Getting gifs from api... onto html
   $("button").on("click", function() {
     var food = $(this).attr("data-food");
     var queryURL =

@@ -1,0 +1,15 @@
+
+body {
+    background-image: url("https://i.pinimg.com/originals/ab/1a/72/ab1a72b33ba99744da40f2932f78fa39.jpg");
+    background-size: cover;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+#background {
+    background-color: #FA8072;
+    color: white;
+}
+
+#form {
+    background-color: white;
+}
